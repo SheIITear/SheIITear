@@ -1,6 +1,10 @@
 <p align="center">
 <div class="text-purple">
-<h1>Hi there 👋<h1/>
+<h1>
+  ```diff
++ Hi there 👋
+```
+<h1/>
 <br>
   <b>I'm a guy who likes to learn coding and other tech related stuff</b>
 <br>
