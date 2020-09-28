@@ -7,6 +7,3 @@
   <img src="https://image.myanimelist.net/ui/lE8tiOvlIIbVW-KduqDy33pHtMpZ9KmLK2R5eH3hhMhFd7pq8aDlQHWL763EOCtGUkHeJpKoGHQOFLd73vMoEbJTzCKCYO3Zeh6BCaFP4nM">
   <img src="https://github-readme-stats.vercel.app/api?username=SheIITear&show_icons=true&theme=dark&show_owner=true">
 </p>
-<br>
-To contact, email me → veetipunnonen02@gmail.com
-</div>
