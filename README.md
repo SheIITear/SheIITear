@@ -1,5 +1,5 @@
 <p align="center">
-<h1 style="color:blue">Hi there 👋>
+<h1 style="color:blue">Hi there 👋<h1/>
 <br>
   <b>I'm a guy who likes to learn coding and other tech related stuff</b>
 <br>
