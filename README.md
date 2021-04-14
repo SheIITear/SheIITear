@@ -10,4 +10,4 @@
 <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheIITear&theme=dark&layout=compact">
 <br>
-  <img src="https://gpvc.arturio.dev/SheIITear">
+  <img align="center" src="https://gpvc.arturio.dev/SheIITear">
