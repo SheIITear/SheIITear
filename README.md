@@ -9,3 +9,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SheIITear&show_icons=true&theme=dark&show_owner=true">
 <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheIITear&theme=dark&layout=compact">
+<br>
+![Profile views](https://gpvc.arturio.dev/SheIITear)
