@@ -3,6 +3,7 @@
   <h3>I'm a guy who likes to learn coding and other tech related stuff</h2>
   <h3>I use nodejs, typescript, go and sometimes rust. (I suck in each one xd).</h3>
   <h3>I'm currently a student at both SAMIedu vocational college and high school.</h3>
+  <h3>Hit me up on DC if ya wanna get in touch "᲼᲼᲼᲼᲼᲼᲼᲼᲼#7976". 
 <br>
   <img src="https://image.myanimelist.net/ui/lE8tiOvlIIbVW-KduqDy33pHtMpZ9KmLK2R5eH3hhMhFd7pq8aDlQHWL763EOCtGUkHeJpKoGHQOFLd73vMoEbJTzCKCYO3Zeh6BCaFP4nM">
 <br>
