@@ -5,6 +5,7 @@
   <h3>I'm currently a student at both SAMIedu vocational college and high school.</h3>
   <h3>Hit me up on DC if ya wanna get in touch "᲼᲼᲼᲼᲼᲼᲼᲼᲼#7976". 
 <br>
+<br>
   <img src="https://image.myanimelist.net/ui/lE8tiOvlIIbVW-KduqDy33pHtMpZ9KmLK2R5eH3hhMhFd7pq8aDlQHWL763EOCtGUkHeJpKoGHQOFLd73vMoEbJTzCKCYO3Zeh6BCaFP4nM">
 <br>
   <img src="https://github-readme-stats.vercel.app/api?username=SheIITear&show_icons=true&theme=dark&show_owner=true">
