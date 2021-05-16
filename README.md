@@ -1,5 +1,4 @@
   <h1 align="center">Hi there 👋</h1>
-<br>
   <h3>I'm a guy who likes to learn coding and other tech related stuff</h2>
   <h3>I use nodejs, typescript, go and sometimes rust. (I suck in each one xd).</h3>
   <h3>I'm currently a student at both SAMIedu vocational college and high school.</h3>
