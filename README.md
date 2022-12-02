@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**SheIITear/SheIITear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Hi there 👋 <img src="https://gpvc.arturio.dev/SheIITear"></h1>
+<h3 align="center">I'm a guy who likes to learn coding and other tech related stuff</h3>
+<h3 align="center">I use nodejs, typescript, go and sometimes rust and asm.</h3>
+<h3 align="center">I'm currently doing absolutely nothing.</h3>
+<br>
+<p align="center">
+    <button><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"></button>
+    <br>
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=SheIITear&show_icons=true&theme=dark&show_owner=true&count_private=true">
+    <!-- <br>
+    <img src="xxx"> -->
+</p>
