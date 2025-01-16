@@ -9,7 +9,7 @@
 </ul>
 
 <p align="center">Check out my personal website for more updates and projects:</p>
-<p align="center"><a href="https://shelltear.lol" target="_blank"><strong>shelltear.lol</strong></a></p>
+<p align="center"><a href="https://shelltear.my" target="_blank"><strong>shelltear.lol</strong></a></p>
 
 <br>
 
