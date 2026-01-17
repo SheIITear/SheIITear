@@ -8,9 +8,6 @@
   <li>Pursuing a BEng in ICT</li>
 </ul>
 
-<p align="center">Check out my personal website for more updates and projects:</p>
-<p align="center"><a href="https://shelltear.my" target="_blank"><strong>shelltear.my</strong></a></p>
-
 <br>
 
 <p align="center">
