@@ -9,7 +9,3 @@
 </ul>
 
 <br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SheIITear&show_icons=true&theme=dark&show_owner=true&count_private=true" alt="SheIITear's GitHub stats">
-</p>
